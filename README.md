@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amirtha
+# 👋 Hi, I'm Amirtha Varshini SUgumaran
 
 ### Business Analyst | Data Analyst | BI Analyst | SQL | Power BI | Python
 
