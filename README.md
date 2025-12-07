@@ -57,7 +57,7 @@ Core focus areas:
 ## 📊 Portfolio Highlights
 
 **Medical Insurance Claims Analytics**
-- Analyzed 5,000+ claims using SQL and Python  
+- Analyzed 4,000+ claims using SQL and Python  
 - Built ETL pipelines and fraud-pattern detection logic  
 - Designed executive-level KPI dashboards in Power BI  
 
