@@ -128,5 +128,3 @@ All repositories follow enterprise-style documentation and governance standards.
 - Email: amirthavarshinisugumaran@gmail.com  
 
 ---
-
-**Building in public. Delivering measurable business value.**
