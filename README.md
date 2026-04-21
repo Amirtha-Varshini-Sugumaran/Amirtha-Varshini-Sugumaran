@@ -28,14 +28,14 @@ I bring practical exposure to AI/ML, analytics, and intelligent workflow design.
 
 ## Featured Projects
 
-### ComplyAI
+### ComplyAI - Compliance SaaS MVP
 
 Multi-tenant compliance SaaS MVP for managing GDPR workflows, consent records, data subject requests, audit history, and AI-assisted risk review.
 Built with tenant-aware data isolation, JWT authentication, RBAC, audit logging, PostgreSQL, Docker, and a React frontend.
 
 **Tech:** Java, Spring Boot, PostgreSQL, Docker, React, TypeScript, AI compliance workflows
 
-### Expense Management Backend
+### Expense Management Backend API
 
 Backend system for managing employee expense submissions, approvals, rejections, and audit-ready financial records.
 Designed REST APIs, layered architecture, PostgreSQL models, validation schemas, Docker setup, and automated tests.
@@ -49,14 +49,14 @@ Includes cleaned datasets, Python analysis, SQL queries, Excel outputs, Power BI
 
 **Tech:** Python, SQL, Power BI, Excel, data cleaning, segmentation, basic ML
 
-### Order Fulfillment System Analysis
+### Order Fulfillment & Delivery Tracking Analysis
 
 System analysis project for a delivery tracking platform replacing manual Excel, email, and phone-based order updates.
 Covers BRD, FRD, SRS, user stories, acceptance criteria, process flows, data model, API overview, and Agile delivery planning.
 
 **Tech:** Requirements analysis, SDLC, Agile, data modelling, API design, process mapping
 
-### Workflow Automation System Analysis
+### Vendor Onboarding Workflow Analysis
 
 Business systems project converting vendor onboarding from email and spreadsheets into a structured workflow system.
 Defined approval stages, document checks, status visibility, business rules, KPI tracking, and low-fidelity system mockups.
